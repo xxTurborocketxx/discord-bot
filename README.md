@@ -1,4 +1,4 @@
-My first own Discord bot
+My first own Discord bot not every command may work right and it is still being developed
 
 You can join my server https://discord.gg/QXmGDjTe9P join my server for an bot invite if you want it in your server or host it yourself
 
