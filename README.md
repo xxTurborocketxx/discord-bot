@@ -1,2 +1,1 @@
-"# discord-bot" 
-"# discord-bot" 
+you will need to create a .env with your token in it
